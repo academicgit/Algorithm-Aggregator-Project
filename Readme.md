@@ -60,7 +60,7 @@
 
  - [ ] 1] Huffman Coding Compression Algorithm
  
- - [ ] 2] Euclid's Algorithm
+ - [x] 2] Euclid's Algorithm
  
  - [ ] 3] Union Find Algorithm
 
