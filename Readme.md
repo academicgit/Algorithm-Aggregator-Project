@@ -58,10 +58,10 @@
 
 #### Other Algorithms : -
 
- - [ ] 1] Huffman Coding Compression Algorithm
+ - [x] 1] Huffman Coding Compression Algorithm
  
  - [x] 2] Euclid's Algorithm
  
- - [ ] 3] Union Find Algorithm
+ - [x] 3] Union Find Algorithm
 
 > Note : .gitignore file is used to ignore the files which are not required to be pushed to the repository.
