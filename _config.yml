@@ -1,3 +1,5 @@
 title : Algorithm Aggregator
-description: The Algorithm Aggregator project is a attempt to create a cluster of usefull algorithms which are preimplemented in popular programming language.
+description : The Algorithm Aggregator project is a attempt to create a cluster of usefull algorithms which are preimplemented in popular programming language.
+author : PARVASHWANI
+
 theme: jekyll-theme-merlot
