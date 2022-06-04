@@ -1,5 +1,6 @@
 
 ## The Algorithm Aggregator Project
+![Progress](https://progress-bar.dev/80/?title=Progress)
 ![Parv](https://badgen.net/badge/Creator/PARVASHWANI/red?icon=github)
 
 #### Searching Alogorithms : -
