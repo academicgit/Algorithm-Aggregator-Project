@@ -1,6 +1,6 @@
 
 ## The Algorithm Aggregator Project
-![Progress](https://progress-bar.dev/80/?title=Progress)
+![Progress](https://progress-bar.dev/90/?title=Progress)
 ![Parv](https://badgen.net/badge/Creator/PARVASHWANI/red?icon=github)
 
 #### Searching Alogorithms : -
@@ -47,15 +47,15 @@
 
 #### Arrays Algorithms : -
 
-- [ ] 1] Kadane's Algorithm
+- [x] 1] Kadane's Algorithm
 
-- [ ] 2] Floyd's Cycle Detection Algorithm
+- [x] 2] Floyd's Cycle Detection Algorithm
 
-- [ ] 3] KMP Algorithm
+- [x] 3] KMP Algorithm
 
-- [ ] 4] Quick - Select Algorithm
+- [x] 4] Quick - Select Algorithm
 
-- [ ] 5] Boyer-More Majority Vote Algorithm
+- [x] 5] Boyer-More Majority Vote Algorithm
 
 #### Other Algorithms : -
 
