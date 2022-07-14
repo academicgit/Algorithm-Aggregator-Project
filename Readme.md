@@ -1,7 +1,7 @@
 
 ## The Algorithm Aggregator Project
 
-![Progress](https://progress-bar.dev/90/?title=Progress&style=plastic)
+![Progress](https://progress-bar.dev/99/?title=Progress&style=plastic)
 ![C](https://img.shields.io/badge/C-00599C?style=Plastic&logo=c&logoColor=white)
 ![Browser](https://img.shields.io/badge/Brave-FF1B2D?logo=Brave&logoColor=white)
 ![IDE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white)
@@ -35,17 +35,17 @@
 
 #### Graphs Algorithms : -
 
-- [ ] 1] Krushkal's Algorithm
+- [x] 1] Krushkal's Algorithm
 
-- [ ] 2] Dijkstra's Algorithm
+- [x] 2] Dijkstra's Algorithm
 
-- [ ] 3] Bellman Ford Algorithm
+- [x] 3] Bellman Ford Algorithm
 
-- [ ] 4] Floyd Warshall Algorithm
+- [x] 4] Floyd Warshall Algorithm
 
-- [ ] 5] Topological Sort Algorithm
+- [x] 5] Topological Sort Algorithm
 
-- [ ] 6] Flood Fill Algorithm
+- [x] 6] Flood Fill Algorithm
 
 - [ ] 7] Lee Algorithm
 
