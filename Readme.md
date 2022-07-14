@@ -1,6 +1,13 @@
 
 ## The Algorithm Aggregator Project
+<<<<<<< HEAD
 ![Progress](https://progress-bar.dev/90/?title=Progress)
+=======
+![Progress](https://progress-bar.dev/80/?title=Progress&style=plastic)
+![C](https://img.shields.io/badge/C-00599C?style=Plastic&logo=c&logoColor=white)
+![Browser](https://img.shields.io/badge/Brave-FF1B2D?logo=Brave&logoColor=white)
+![IDE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white)
+>>>>>>> 8250ec999c9f3ee83be43195720630e084bc323f
 ![Parv](https://badgen.net/badge/Creator/PARVASHWANI/red?icon=github)
 
 #### Searching Alogorithms : -
