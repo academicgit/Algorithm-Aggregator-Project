@@ -69,4 +69,4 @@
  
  - [x] 3] Union Find Algorithm
 
-> Note : C version is complete will soon move on to Python version after a break.
+#> Note : C version is complete will soon move on to Python version after a break.
